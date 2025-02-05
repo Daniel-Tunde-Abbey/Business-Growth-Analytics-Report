@@ -28,9 +28,8 @@ The dataset used for this project includes information on sales transactions, ca
 - Order date
 
 ### Data Processing
-- Removed duplicates, handled missing values, and ensured consistency.
-- Created new fields such as profit margin and total revenue.
-- Grouped data by categories, regions, and time periods for analysis.
+- Data Cleaning: The dataset was cleaned in Microsoft Excel to remove inconsistencies, handle missing values, and standardize formats for better visualization.
+- Data Analysis & Visualization: Power BI was used to develop the interactive dashboard, integrating various data visualizations to provide meaningful insights
 
 
 ## Key Insights
